@@ -128,7 +128,7 @@ p{
 
 
 /* primer seccion */
-.section2{
+.section1{
     background-color: var(--color2);
     max-width: 90%;
     display: flex;
@@ -166,7 +166,7 @@ p{
 
 
 /* segunda seccion */
-.section3{
+.section2{
    background-color: var(--color1); 
    padding: 30px 50px;
    width: 90%;
@@ -175,7 +175,7 @@ p{
 
 
 /* tercera seccion */
-.section4{
+.section3{
     display: flex;
     width: 90%;
 }
@@ -196,7 +196,7 @@ p{
 
 
 /* cuarta seccion */
-.section5{
+.section4{
     background-color: var(--color1);
     width: 90%;
     display: flex;
